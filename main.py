@@ -25,4 +25,4 @@ if offer == 'yes':
         print(f'Also {order2} in progress and {order}')
 else:
     print('Ok,Have a good time')
-print(f'the total of the bill is: {total}$')
+print(f'your order cost you: {total}$')
